@@ -1,0 +1,36 @@
+@media all and (max-width:990px){
+    .navbar-toggler {
+        margin: auto;
+            margin-right: auto;
+        margin-right: 0;
+    } 
+}
+@media all and (max-width:550px){
+    .hero #text h1 {
+        font-size: 80px;
+    }
+    .hero #text p {
+        font-size: 20px;
+    }
+}
+@media all and (max-width:367px){
+    .hero #text h1 {
+        font-size: 70px;
+    }
+    .hero #text p {
+        font-size: 16px;
+    }
+}
+@media all and (max-width:324px){
+    .hero #text h1 {
+        font-size: 60px;
+    }
+    .hero #text p {
+        font-size: 13px;
+    }
+}
+@media all and (max-width:768px){
+    .header-top .search{
+        display: none;
+    }
+}
